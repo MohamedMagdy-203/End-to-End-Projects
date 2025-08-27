@@ -27,4 +27,4 @@ Each project is organized in its own folder with Jupyter notebooks and code for 
 ## 📌 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/USERNAME/REPO_NAME.git
+   git clone [https://github.com/USERNAME/REPO_NAME.git](https://github.com/MohamedMagdy-203/End-to-End-Projects)
