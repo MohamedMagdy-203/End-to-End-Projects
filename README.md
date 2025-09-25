@@ -11,9 +11,9 @@ Each project is organized in its own folder with Jupyter notebooks and code for 
   Predicting house rental prices in major Indian cities using regression models.  
   [View Project](./Indian%20Houses%20for%20rent)
 
-- 📊 **(Add Next Project Here)**  
-  Short description...  
-  [View Project](./Project_Folder_Name)
+- 🛒 **Brazilian Marketplace Cost Prediction**  
+  End-to-end machine learning project for predicting retail transaction costs in the Brazilian e-commerce marketplace.  
+  [View Project](./Brazilian%20marketplace)
 
 ---
 
